@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/" 
-title: Pascal Michaillat
+baseURL: "/http://www.hurrial.com/" 
+title: Dr. Ali Hürriyetoğlu
 paginate: 20
 theme: PaperMod
 
@@ -29,7 +29,7 @@ menu:
 
 params:
     description: "This website hosts Pascal Michaillat's research papers, course material, design projects, curriculum vitae, and contact information."
-    author: Pascal Michaillat
+    author: Dr. Ali Hürriyetoğlu
     googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -52,12 +52,12 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Pascal Michaillat
+          title: Dr. Ali Hürriyetoğlu
           subtitle: "I am an Associate Professor of Economics at the University of California, Santa Cruz. I research why economic slack—especially unemployment—exists, why slack fluctuates over the business cycle, and how macroeconomic policies should respond to such fluctuations."
           imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Pascal Michaillat
+          imageTitle: Dr. Ali Hürriyetoğlu
           buttons:
             - name: Papers
               url: /papers/
@@ -97,7 +97,7 @@ params:
         hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "Pascal Michaillat"
+      text: "Dr. Ali Hürriyetoğlu"
       icon: /favicon.ico
       iconHeight: 18
 
