@@ -2,178 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/http://www.hurrial.com/design/</loc>
-    <lastmod>2024-04-02T00:00:00+00:00</lastmod>
+    <loc>https://hurrial.com/data/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/http://www.hurrial.com/</loc>
-    <lastmod>2024-04-03T00:00:00+00:00</lastmod>
+    <loc>https://hurrial.com/data/data1/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/http://www.hurrial.com/d2/</loc>
-    <lastmod>2024-04-02T00:00:00+00:00</lastmod>
+    <loc>https://hurrial.com/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/http://www.hurrial.com/officehours/</loc>
-    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+    <loc>https://hurrial.com/tags/keyword-10/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/http://www.hurrial.com/location/</loc>
-    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
+    <loc>https://hurrial.com/tags/keyword-5/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/http://www.hurrial.com/12/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+    <loc>https://hurrial.com/tags/keyword-6/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/http://www.hurrial.com/tags/metascience/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+    <loc>https://hurrial.com/tags/keyword-7/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/http://www.hurrial.com/papers/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+    <loc>https://hurrial.com/tags/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/http://www.hurrial.com/tags/</loc>
-    <lastmod>2024-04-03T00:00:00+00:00</lastmod>
+    <loc>https://hurrial.com/courses/course1/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/http://www.hurrial.com/tags/beveridge-curve/</loc>
-    <lastmod>2024-04-03T00:00:00+00:00</lastmod>
+    <loc>https://hurrial.com/courses/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/http://www.hurrial.com/tags/business-cycles/</loc>
-    <lastmod>2024-04-03T00:00:00+00:00</lastmod>
+    <loc>https://hurrial.com/tags/keyword-1/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/http://www.hurrial.com/courses/</loc>
-    <lastmod>2024-04-03T00:00:00+00:00</lastmod>
+    <loc>https://hurrial.com/tags/keyword-2/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/http://www.hurrial.com/tags/efficiency/</loc>
-    <lastmod>2024-04-03T00:00:00+00:00</lastmod>
+    <loc>https://hurrial.com/tags/keyword-3/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/http://www.hurrial.com/tags/government-spending/</loc>
-    <lastmod>2024-04-03T00:00:00+00:00</lastmod>
+    <loc>https://hurrial.com/courses/course2/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/http://www.hurrial.com/tags/job-rationing/</loc>
-    <lastmod>2024-04-03T00:00:00+00:00</lastmod>
+    <loc>https://hurrial.com/tags/keyword-4/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/http://www.hurrial.com/tags/matching-function/</loc>
-    <lastmod>2024-04-03T00:00:00+00:00</lastmod>
+    <loc>https://hurrial.com/papers/paper2/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/http://www.hurrial.com/tags/multiplier/</loc>
-    <lastmod>2024-04-03T00:00:00+00:00</lastmod>
+    <loc>https://hurrial.com/papers/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/http://www.hurrial.com/tags/unemployment/</loc>
-    <lastmod>2024-04-03T00:00:00+00:00</lastmod>
+    <loc>https://hurrial.com/papers/paper1/</loc>
+    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/http://www.hurrial.com/c1/</loc>
-    <lastmod>2024-04-03T00:00:00+00:00</lastmod>
+    <loc>https://hurrial.com/archive/</loc>
   </url><url>
-    <loc>/http://www.hurrial.com/tags/unemployment-gap/</loc>
-    <lastmod>2024-04-03T00:00:00+00:00</lastmod>
+    <loc>https://hurrial.com/location/</loc>
   </url><url>
-    <loc>/http://www.hurrial.com/tags/unemployment-insurance/</loc>
-    <lastmod>2024-04-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/tags/wage-rigidity/</loc>
-    <lastmod>2024-04-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/archive/</loc>
-    <lastmod>2024-02-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/tags/economic-slack/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/15/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/tags/monetary-policy/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/tags/optimal-control/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/tags/phillips-curve/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/tags/price-rigidity/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/tags/social-psychology/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/tags/stabilization-policy/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/tags/sufficient-statistics/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/tags/wealth-in-the-utility/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/c2/</loc>
-    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/b1/</loc>
-    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/c5/</loc>
-    <lastmod>2023-12-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/d1/</loc>
-    <lastmod>2023-11-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/14/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/tags/state-dependence/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/d3/</loc>
-    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/d5/</loc>
-    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/d4/</loc>
-    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/13/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/7/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/9/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/tags/new-keynesian-model/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/8/</loc>
-    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/tags/differential-equations/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/11/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/6/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/10/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/c4/</loc>
-    <lastmod>2024-01-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/5/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/4/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/3/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/2/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/c3/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/http://www.hurrial.com/1/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+    <loc>https://hurrial.com/officehours/</loc>
   </url>
 </urlset>
