@@ -1,0 +1,113 @@
+baseURL: "https://hurrial.com/" 
+title: Dr. Ali Hürriyetoğlu
+ypaginate: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Papers
+          url: papers/
+          weight: 1
+        - name: Courses
+          url: courses/
+          weight: 2
+        - name: Data
+          url: data/
+          weight: 3 
+        - name: Newsletter
+          url: https://pmichaillat.substack.com
+          weight: 4
+
+params:
+    description: "I am a Senior Data Science Researcher at Wageningen Food Safety Research in the Netherlands. My research primarily focuses on food safety and security, employing early warning and federated learning systems as part of the European Horizon Projects, EFRA and ECO-READY.
+consequat."
+    author: Dr. Ali Hürriyetoğlu
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: false
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Dr. Ali Hürriyetoğlu
+          subtitle: "Ali Hürriyetoğlu is an accomplished researcher and educator with extensive experience in data science, computational social science, and natural language processing. He holds a Ph.D. in Communication and Information Studies from Radboud University, the Netherlands. Ali has worked in various capacities, including as a Senior Data Science Researcher at Wageningen Food Safety Research, managing major European Horizon Projects related to food safety. He also served as a Postdoctoral Research Fellow at the Royal Netherlands Academy of Arts and Sciences, focusing on historical text processing. As a co-founder and CTO of Politus Analytics, he leads technical development for AI-based political and social trend analysis in Turkey. Ali has also held teaching positions at Koc University, Turkey, where he developed courses on text processing for social sciences and programming for social science students. His research contributions are extensive, with numerous publications in international journals and conferences."
+          imageUrl: "picture.jpeg"
+          imageWidth: 160
+          imageHeight: 160
+          imageTitle: Dr. Ali Hürriyetoğlu
+          buttons:
+            - name: Papers
+              url: papers/
+            - name: Courses
+              url: courses/
+            - name: Data
+              url: data/
+            - name: Newsletter
+              url: https://pmichaillat.substack.com
+            - name: Tags
+              url: tags/
+            - name: Archive
+              url: archive/
+    socialIcons:
+        - name: CV
+          url: cv.pdf
+        - name: Email
+          url: mailto:ali.hurriyetoglu@gmail.com
+        - name: Location
+          url: https://www.google.com/maps/place/Vitae+-+Wageningen+Campus/@51.9822816,5.6561251,16.88z/data=!4m6!3m5!1s0x47c7acbaeccc65f5:0x19439218dc496213!8m2!3d51.9822565!4d5.6587631!16s%2Fg%2F11h40zry1s?entry=ttu
+        - name: Office Hours
+          url: officehours/
+        - name: Google Scholar
+          url: https://scholar.google.nl/citations?user=PDzLkpoAAAAJ&hl
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/ali-hurriyetoglu/
+        - name: GitHub
+          url: https://github.com/ahurriyetoglu
+        - name: Orcid
+          url: https://orcid.org/0000-0003-3003-1783
+        - name: Twitter
+          url: https://twitter.com/hurrial
+
+    assets:
+        disableHLJS: true
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Prof. Name"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
